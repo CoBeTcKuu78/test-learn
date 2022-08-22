@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    /*** public static void main(String[] args) {
         String phone = "+960-415 75-37";
         phone = phone.replace("-", "");
         phone = phone.replace(" ", "");
@@ -19,6 +19,7 @@ public class Main {
             System.out.println("Успех!");
         } else {
             System.out.println("Нудача!");
-        }
+        } ***/
+
     }
 }
